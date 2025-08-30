@@ -1,5 +1,5 @@
 .env
-./node_modules
+node_modules/
 .DS_Store
 dist
 coverage
@@ -11,3 +11,5 @@ yarn-error.log
 *.log
 *.tsbuildinfo
 .cache
+package-lock.json
+package.json
